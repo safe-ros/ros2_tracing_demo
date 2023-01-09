@@ -1,0 +1,18 @@
+repositories:
+  ros2/ros2_tracing:
+    type: git
+    url: https://github.com/ros2/ros2_tracing.git
+    version: humble
+  tracetools_analysis:
+    type: git
+    url: https://gitlab.com/ros-tracing/tracetools_analysis.git
+    version: master
+  reference_system:
+    type: git
+    url: https://github.com/safe-ros/reference_system.git
+    version: main
+  topnode:
+    type: git
+    url: https://github.com/safe-ros/topnode
+    version: main
+
